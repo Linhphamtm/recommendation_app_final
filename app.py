@@ -22,10 +22,11 @@ st.sidebar.title('📂 Điều hướng')
 page = st.sidebar.radio("Chọn mục", ['Home', 'Insight', 'App'])
 
 st.sidebar.markdown("""
-### 🧑‍💻 Người thực hiện
-**Phạm Thị Mai Linh**
+### 🧑‍💻 Người thực hiện  
+**Phạm Thị Mai Linh**  
 **Tô Nguyễn Phương Anh**
-### 📅 Ngày báo cáo
+
+### 📅 Ngày báo cáo  
 **13/04/2025**
 """)
 
